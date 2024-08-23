@@ -1,0 +1,26 @@
+{
+"main.train": {
+"sounds": [
+{
+    "name": "train"
+}
+],
+"category": "player"
+},
+"main.train_start": {
+"sounds": [
+{
+    "name": "train_start"
+}
+],
+"category": "player"
+},
+"main.train_cant": {
+"sounds": [
+{
+    "name": "train_cant"
+}
+],
+"category": "player"
+}}
+
