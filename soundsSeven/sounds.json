@@ -22,5 +22,14 @@
 }
 ],
 "category": "player"
-}}
+},
+"main.rapture": {
+"sounds": [
+{
+    "name": "rapture"
+}
+],
+"category": "player"
+}
 
+}
