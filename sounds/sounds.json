@@ -30,6 +30,29 @@
 }
 ],
 "category": "player"
+},
+"main.beam_start": {
+"sounds": [
+{
+    "name": "beam_start"
 }
-
+],
+"category": "player"
+},
+"main.beam_stop": {
+"sounds": [
+{
+    "name": "beam_stop"
+}
+],
+"category": "player"
+},
+"main.beam_ambient": {
+"sounds": [
+{
+    "name": "beam_ambient"
+}
+],
+"category": "player"
+}
 }
