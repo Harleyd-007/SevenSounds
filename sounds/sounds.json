@@ -62,5 +62,13 @@
 }
 ],
 "category": "player"
+},
+"main.smokin": {
+"sounds": [
+{
+    "name": "smokin"
+}
+],
+"category": "player"
 }
 }
